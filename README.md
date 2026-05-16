@@ -100,6 +100,9 @@ pip install Flask flask-cors PyMySQL transformers numpy pandas scikit-learn
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 
+Download qua trang chính thức:
+https://huggingface.co/google-bert/bert-base-chinese/tree/main
+
 Hoặc download trực tiếp qua link drive đính kèm:
 https://drive.google.com/drive/folders/1VqOwtKDv4TUmyHJNh5TPKZryO5u_1czp?usp=sharing
 
