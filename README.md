@@ -110,6 +110,10 @@ Sau đó import vào đường dẫn thư mục:
 literary-works-recommendation-algorithm\model_and_train\multi_feature_fm\base_bert_chinese\pytorch_model.bin
 
 ### Train model:
+Import data từ :
+literary-works-recommendation-algorithm\literary_works_recommendation_platform.sql
+vào *Laragon.SQL* hoặc database nào mà bạn muốn dùng
+
 Chạy file main.py bằng lệnh:
 ```bash
 python main.py
