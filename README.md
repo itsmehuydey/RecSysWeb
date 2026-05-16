@@ -86,7 +86,7 @@ npm run dev
 ---
 
 ## 7. Bắt đầu chạy mô hình AI trên nền Python:
-### Tạo môi trườnh Venv:
+### Tạo môi trường Venv:
 ```bash
 python -m venv venv
 .\venv\Scripts\activate
